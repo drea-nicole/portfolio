@@ -1,8 +1,8 @@
 <img src="AndreaBedoya.svg" />
- "<span id="k">WELCOME</span>" <!-- sjkfhskjf -->
+ "<span id="k">GM</span>" <!-- sjkfhskjf -->
 
 Hey There! You've reached my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> Please make yourself comfortable and have a look around.</p>
-<p> Former dancer, current coffee aficionado, Dog lover, cannabis fan-girl <p> and Web3 thinker and builder.<p> Eager to craft experiences both online and in real life. <p> Raised in California & currently living in New York City. <p>Find my work on <a href="https://www.notion.so/andreabedoya/a46a14f4210046bb953084f58feea2f1?v=854544fc43fe4633920e4d38a2ecc497">Notion</a> or <a href="https://mirror.xyz/0xa0507C7fC43486838Ec26D60F64F9303848dc10a">Mirror</a>. 
+<p> Former dancer, current coffee aficionado, Dog lover, cannabis fan-girl <p> and a Web3 thinker and builder.<p> Eager to craft experiences both online and in real life. <p> Raised in California & currently living in New York City. <p>Find my work on <a href="https://www.notion.so/andreabedoya/a46a14f4210046bb953084f58feea2f1?v=854544fc43fe4633920e4d38a2ecc497">Notion</a> or <a href="https://mirror.xyz/0xa0507C7fC43486838Ec26D60F64F9303848dc10a">Mirror</a>. 
 <p> You can find my social profiles here: <br> <a href="//www.twitter.com/becomingandrea">Twitter</a> <br> <a href="//www.instagram.com/andreanicole.eth">Instagram</a> and <br> <a href="//www.linkedin.com/in/andreabedoya">LinkedIn</a>.</p>
 
 Get in touch with me<!-- slightdelayhere-->, send me an email at <!-- longlonglongcomment --><a href="mailto:andreanicolebedoya@gmail.com">andreanicolebedoya@gmail.com</a>.
