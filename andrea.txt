@@ -1,8 +1,8 @@
 <img src="AndreaBedoya.svg" />
  "<span id="k">GM</span>" <!-- sjkfhskjf -->
 
-Hey There! You've reached my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> Please make yourself comfortable and have a look around.</p>
-<p> Former dancer, current coffee aficionado, Dog lover, cannabis fan-girl <p> and a Web3 thinker and builder.<p> Eager to craft experiences both online and in real life. <p> Raised in California & currently living in New York City. <p>Find my work here <a href="https://www.youtube.com/watch?v=y5gnsthC6ho">Reel</a> 
+Hey There! You've reached my site.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> Please make yourself comfortable and have a look around.</p>
+<p> Former dancer, coffee aficionado, Dog lover, cannabis fan-girl <p> and Web3 thinker and builder.<p> Right now, I'm producing films and videos. <p> Raised in California & currently living in New York City. <p>Find my work here <a href="https://www.youtube.com/watch?v=y5gnsthC6ho">Reel</a> 
 <p> You can find my social profiles here: <br> <a href="//www.twitter.com/becomingandrea">Twitter</a> <br> <a href="//www.instagram.com/andreanicole.eth">Instagram</a> and <br> <a href="//www.linkedin.com/in/andreabedoya">LinkedIn</a>.</p>
 
 Get in touch with me<!-- slightdelayhere-->, send me an email at <!-- longlonglongcomment --><a href="mailto:andreanicolebedoya@gmail.com">andreanicolebedoya@gmail.com</a>.
