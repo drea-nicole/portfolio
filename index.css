@@ -3,7 +3,7 @@ body {
 }
 
 #console {
-	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-family: FreeMono, monospace;
 	color: #fff;
 	width:750px;
 	margin-left:auto;
