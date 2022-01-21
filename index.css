@@ -1,11 +1,11 @@
 body {
-	background-color: #000;
+	background-color: rgb(255, 255, 255);
 	text-align: center;
 }
 
 #console {
 	font-family: FreeMono, monospace;
-	color: #fff;
+	color: rgb(0, 0, 0);
 	width:750px;
 	margin-left:auto;
 	margin-right:auto;
