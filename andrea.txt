@@ -1,8 +1,8 @@
 <img src="AndreaBedoya.svg" />
- "<span id="k">GM</span>" <!-- sjkfhskjf -->
+ "<span id="k">gm</span>" <!-- sjkfhskjf -->
 
-Hey There! You've reached my site.<!-- laglaglaglaglaglag --><p> Please make yourself comfortable and have a look around.</p>
-<p> Raised in southern California & currently living in New York City.<p>Dancer, oat milk latte aficionado, and Dog lover, <p> Right now, I'm producing films and videos and discovering Web3. <p>Watch my work here <a href="https://www.youtube.com/watch?v=y5gnsthC6ho">Reel</a> 
+Hey There! You've reached my site.<!-- laglaglaglaglaglag --><p>
+<p> Raised in southern California & currently living in New York City.<p>Dancer, oat milk latte aficionado, and Dog lover, <p>I'm producing films and videos and discovering Web3. <p>Watch my work here <a href="https://www.youtube.com/watch?v=y5gnsthC6ho">Reel</a> 
 <p> You can find my social profiles here: <br> <a href="//www.twitter.com/becomingandrea">Twitter</a> <br> <a href="//www.instagram.com/andreanicole.eth">Instagram</a> and <br> <a href="//www.linkedin.com/in/andreabedoya">LinkedIn</a>.</p>
 
 To get in touch with me<!-- slightdelayhere-->, send me an email at <!-- longlonglongcomment --><a href="mailto:andreanicolebedoya@gmail.com">andreanicolebedoya@gmail.com</a>.
