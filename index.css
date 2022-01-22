@@ -19,7 +19,7 @@ a {
 }
 
 #a {
-	color: rgb(173, 39, 90);
+	color: rgb(148,254,148);
 }
 
 #c {
@@ -39,7 +39,7 @@ a {
 }
 
 @keyframes change {
-    	0%  { color:  rgb(173, 39, 90); }
-    	50% { color:  rgb(173, 39, 90); }
+    	0%  { color:  rgb(148,254,148); }
+    	50% { color:  rgb(148,254,148); }
     	99% { color: black; }
 }
