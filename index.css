@@ -41,5 +41,5 @@ a {
 @keyframes change {
     	0%  { color:  rgb(148,254,148); }
     	50% { color:  rgb(148,254,148); }
-    	99% { color: black; }
+    	99% { color: rgb(255, 255, 255); }
 }
