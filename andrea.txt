@@ -1,8 +1,7 @@
 <img src="AndreaBedoya.svg" />
- "<span id="k">gm</span>" <!-- sjkfhskjf -->
 
-Hey There! You've reached my site.<!-- laglaglaglaglaglag --><p>
-<p> Raised in southern California & currently living in New York City.<p>Dancer, oat milk latte aficionado, and Dog lover, <p>I'm producing films and videos and discovering Web3. <p>Watch my work here <a href="https://www.youtube.com/watch?v=y5gnsthC6ho">Reel</a> 
+Hey There! I'm Andrea or Drea.<!-- laglaglaglaglaglag --><p>
+<p> Raised in southern California & currently living in New York City.<p>Dancer, oat milk latte aficionado, and Dog lover, <p>I'm currently creating an ethereal NFTs with <br> <a href="//www.twitter.com/11thhouseXYZ">@EleventhHouse</a> and learning front-end software development. <p>Watch my work here <a href="https://youtu.be/F2FVFR9HYL0">Reel</a> 
 <p> You can find my social profiles here: <br> <a href="//www.twitter.com/becomingandrea">Twitter</a> <br> <a href="//www.instagram.com/andreanicole.eth">Instagram</a> and <br> <a href="//www.linkedin.com/in/andreabedoya">LinkedIn</a>.</p>
 
 To get in touch with me<!-- slightdelayhere-->, send me an email at <!-- longlonglongcomment --><a href="mailto:andreanicolebedoya@gmail.com">andreanicolebedoya@gmail.com</a>.
