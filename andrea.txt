@@ -1,7 +1,7 @@
 <img src="AndreaBedoya.svg" />
 
 Hey There!<!-- laglaglaglaglaglag --><p>
-<p> Raised in southern California & currently living in New York City.<p>Dancer, oat milk latte aficionado, and Dog lover, <p>I'm currently creating ethereal NFTs with <br> <a href="//www.twitter.com/11thhouseXYZ">@EleventhHouse</a> and learning front-end software development. <p>Watch my work here <a href="https://youtu.be/y5gnsthC6ho">Reel</a> 
+<p> Raised in southern California & currently living in New York City.<p>Dancer, oat milk latte aficionado, and Dog lover, <p>I'm currently creating ethereal NFTs with <br> <a href="//www.twitter.com/11thhouseXYZ">@EleventhHouse</a> and learning front-end software development. <p>Watch my work here <a href="https://youtu.be/ANbF4wzjXgg">Reel</a> 
 <p> You can find my social profiles here: <br> <a href="//www.twitter.com/becomingandrea">Twitter</a> <br> <a href="//www.instagram.com/andreanicole.eth">Instagram</a> and <br> <a href="//www.linkedin.com/in/andreabedoya">LinkedIn</a>.</p>
 
 To get in touch with me<!-- slightdelayhere-->, send me an email at <!-- longlonglongcomment --><a href="mailto:andreanicolebedoya@gmail.com">andreanicolebedoya@gmail.com</a>.
